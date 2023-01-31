@@ -1,0 +1,9 @@
+SoqlDemo.accountSOQL_3();
+SoqlDemo.accountSOQL_2();
+SoqlDemo.accountSOQL_11();
+SoqlDemo.accountSOQL_1();
+soqlDemo.accountSOQL_Filter('GenePoint');
+soqlDemo.accountSOQL_Filter('salesforce');
+soqlDemo.childToParent_SOQL1();
+soqlDemo.parentToChild_SOQL1();
+SoqlDemo.parentToChild_SOQL2();
