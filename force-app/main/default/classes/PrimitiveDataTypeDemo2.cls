@@ -36,6 +36,8 @@ public class PrimitiveDataTypeDemo2 {
         system.debug('dt3 is ' +  dt3);
 
 //yes
+//no
+
 
 }
 
