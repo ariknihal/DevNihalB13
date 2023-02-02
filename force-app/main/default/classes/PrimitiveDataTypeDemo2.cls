@@ -35,6 +35,8 @@ public class PrimitiveDataTypeDemo2 {
         Datetime dt3 = datetime.newInstance(2022, 1 , 10, 5, 15, 10);
         system.debug('dt3 is ' +  dt3);
 
+//yes
+//no
 
 
 }
